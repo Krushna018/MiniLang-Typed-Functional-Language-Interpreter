@@ -1,0 +1,2 @@
+let id = fun[T](x: T): T => x in
+(id[Int](42), id[String]("hello"))

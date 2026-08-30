@@ -1,0 +1,5 @@
+let applyTwice = fun(f: Int -> Int): Int -> Int =>
+  fun(x: Int): Int => f(f(x))
+in
+let inc = fun(x: Int): Int => x + 1 in
+applyTwice(inc)(10)
