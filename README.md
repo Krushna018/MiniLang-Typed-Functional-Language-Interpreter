@@ -269,10 +269,6 @@ MiniLang test suite: 185 / 185 programs passed
 and implementation behavior.
 ```
 
-> **Note:** The 100% figure refers to this defined 185-program validation suite; it is not a claim of universal language correctness.
-
----
-
 ## 🔬 Research & Formal Semantics
 
 The project includes research-oriented documentation in `docs/`.
