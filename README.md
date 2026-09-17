@@ -432,20 +432,3 @@ Potential extensions include:
 * Formal mechanization using a proof assistant
 
 ---
-
-## 📌 Project Status
-
-**Status:** Functional research/learning interpreter
-
-MiniLang currently provides a complete pipeline from source code to typed evaluation, with recursion, higher-order functions, pairs, explicit polymorphism, structured type errors, testing, and formal-semantic documentation.
-
----
-
-## 👨‍💻 Author
-
-**Krushna Tekane**
-
-BTech Computer Science Engineering
-Interested in Software Development, Programming Languages, AI/ML, and Systems
-
-**GitHub:** `Krushna018/MiniLang-Typed-Functional-Language-Interpreter`
